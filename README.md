@@ -35,7 +35,8 @@ Key features include:
 
 ### 📫 Connect With Me
 
-* LinkedIn: Ajith E Joemon
+* LinkedIn: https://www.linkedin.com/in/ajith-e-joemon-707734362?
+
 * GitHub: AjithJoemon007
 
 ---
