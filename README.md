@@ -37,7 +37,7 @@ Key features include:
 
 * LinkedIn: https://www.linkedin.com/in/ajith-e-joemon-707734362?
 
-* GitHub: AjithJoemon007
+* GitHub: https://github.com/AjithJoemon007
 
 ---
 
