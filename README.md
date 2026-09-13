@@ -28,8 +28,8 @@ Key features include:
 ### 🎯 Currently Learning
 
 * Data Analytics
-* Python
 * SQL
+* Python
 * Machine Learning
 * Git & GitHub
 
