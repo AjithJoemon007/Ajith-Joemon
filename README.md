@@ -2,7 +2,7 @@
 
 ### M.Sc. Computer Science (Data Analytics) Student | BCA Graduate
 
-I'm a Computer Science student interested in **Data Analytics, Software Development, and Technology-driven problem solving**.
+I'm a Computer Science student interested in **Data Analytics, Software Development and Technology-driven problem solving**.
 
 ### 💻 Technical Skills
 
