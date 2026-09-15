@@ -6,7 +6,7 @@ I'm a Computer Science student interested in **Data Analytics, Software Developm
 
 ### 💻 Technical Skills
 
-* **Languages:** Python, Java, C
+* **Languages:** Python, C
 * **Database:** MySQL
 * **Web Technologies:** HTML, CSS, JavaScript, React
 * **Data & Analytics:** Python, SQL, Data Analysis
