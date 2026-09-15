@@ -10,7 +10,7 @@ I'm a Computer Science student interested in **Data Analytics, Software Developm
 * **Database:** MySQL
 * **Web Technologies:** HTML, CSS, JavaScript, React
 * **Data & Analytics:** Python, SQL, Data Analysis
-* **Tools:** Git, GitHub, VS Code
+* **Tools:** Git, GitHub and VS Code
 
 ### 📌 Featured Project
 
