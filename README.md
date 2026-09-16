@@ -16,7 +16,7 @@ I'm a Computer Science student interested in **Data Analytics, Software Developm
 
 **Volunteer Collaboration Platform**
 
-A web-based platform designed to connect and manage volunteers based on departments, skills and volunteer activities.
+A Web-based platform designed to connect and manage volunteers based on departments, skills and volunteer activities.
 
 Key features include:
 
