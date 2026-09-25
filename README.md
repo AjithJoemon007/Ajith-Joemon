@@ -20,7 +20,7 @@ Excited to keep learning, building, and exploring what's next! 🚀
 
 **Volunteer Collaboration Platform**
 
-A Web-based platform designed to connect and manage volunteers based on departments, skills and volunteer activities.
+A Web-based platform designed to connect and manage volunteers based on their departments, skills and volunteer activities.
 
 Key features include:
 
