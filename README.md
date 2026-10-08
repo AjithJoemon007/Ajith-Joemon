@@ -13,7 +13,7 @@ I'm a Computer Science student interested in **Data Analytics, Software Developm
 * **Tools:** Git, GitHub, VS Code
   
 I'm learning not just to understand concepts, but to apply them through projects, experiments and practical problem-solving.
-Every new concept, project, and challenge is another step toward becoming a better technology professional. 💻📊
+Every new concept, project and challenge is another step toward becoming a better technology professional. 💻📊
 Excited to keep learning, building, and exploring what's next! 🚀
 
 ### 📌 Featured Project
